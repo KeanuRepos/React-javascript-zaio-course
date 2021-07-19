@@ -1,4 +1,4 @@
 # React-javascript-zaio-course
 
-### Program live demos
+### Live program demos
 synchronizationPage URL: https://syncpage-fd9d9.web.app/
